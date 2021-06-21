@@ -11,12 +11,8 @@ Detailed Rules: [Google Docs](https://youtu.be/-lmhJOhQHWc?list=PLVbxVQf7e2KRz1J
 __Windows Users__  
 ```Download each file, store it in the same directory/folder and and run main.exe with your file's full name+extenstion```
 
-## Authors
-* [Adityaa Gupta](https://github.com/Adwgupta)
-#### Grade Received
-
+* Authors:          [Adityaa Gupta](https://github.com/Adwgupta)
+* Language(s):      C, CMake 
+* Tools:            Git, Visual Studio Code, CLion 
+* Grade Received:   A+
  --- ---
-### Author:           [Adityaa Gupta](https://github.com/Adwgupta)  
-### Language(s):      C, CMake   
-### Tools:            Git, Visual Studio Code, CLion  
-### Grade Recieved    A+  
