@@ -15,3 +15,8 @@ __Windows Users__
 * [Adityaa Gupta](https://github.com/Adwgupta)
 #### Grade Received
 
+ --- ---
+### Author:           [Adityaa Gupta](https://github.com/Adwgupta)  
+### Language(s):      C, CMake   
+### Tools:            Git, Visual Studio Code, CLion  
+### Grade Recieved    A+  
