@@ -5,7 +5,7 @@
 ## About The Program
 
 
-Detailed Rules: [Google Docs](https://youtu.be/-lmhJOhQHWc?list=PLVbxVQf7e2KRz1J34jFf7jDJFDT9lvnQ9)
+Detailed Rules: [Google Docs](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Getting Started
 __Windows Users__  
