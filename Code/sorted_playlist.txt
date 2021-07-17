@@ -1,0 +1,93 @@
+Sorted list of artists & their songs:
+
+A.R Rahman
+	o Dil Bechara***2:43
+	o Main Tumhara***4:18
+	o Matargashti***5:28
+	o Tare Ginn***4:17
+
+Alan Silvestri
+	o Back to The Future***3:30
+	o Meet Dexter***1:27
+	o Portals***3:17
+	o The Avengers***2:03
+	o The Real Hero***5:54
+	o Totally Fine***4:29
+
+Bo Burnam
+	o All Eyes On Me***5:02
+	o Bezos I***0:58
+	o Welcome To The Internet***4:35
+
+Eminem
+	o FACK***3:26
+	o Godzilla***3:31
+	o Rap God***6:04
+	o The Real Slim Shady***4:44
+	o Venom***4:30
+	o Without me***5:49
+
+Fallout Boy
+	o Centuries***3:48
+	o Immortals***3:10
+	o My Songs Know What You Did In The Dark***3:07
+	o The Mighty Fall***3:32
+	o The Phoenix***4:09
+	o Thnks fr th Mmrs***3:24
+
+Gojira
+	o Backbone***4:18
+	o The Heaviest Matter of the Universe***3:58
+	o Unicorn***2:09
+
+Imagine Dragons
+	o Believer***3:24
+	o Monster***4:11
+	o Radioactive***3:06
+	o Whatever It Takes***3:21
+
+Jeremy Renner
+	o Just My Type***3:06
+	o Live For Now***3:34
+	o Love is a War***3:57
+	o Main Attraction***3:23
+	o Nomad***2:48
+	o She's A Fire***3:22
+	o Stereo Love***2:58
+	o The Medicine***3:31
+
+John Williams
+	o Anakin's Betrayal***4:05
+	o Anakin's Dark Deeds***4:05
+	o Ani vs Obi***3:56
+	o Cal Kestis***5:34
+	o Flash Theme Song***4:59
+	o Flight***4:40
+	o Hedwig's Theme***3:49
+	o Imperial March***2:59
+	o Jurassic Park***3:27
+	o Quidditch, Third Year***3:47
+	o The Patronus Light***1:12
+	o This is Clark Kent***3:49
+
+Linked Horizons
+	o Guren no Yumiya***5:06
+	o Seishun wa Hanabi no Youni***1:34
+	o Shinzo wo Sasageyo!***5:41
+
+Singles
+	o Blinding Lights (The Weekend)***3:20
+	o He's a Pirate (Klaus Badelt)***1:30
+	o Heaven (The Walkmen)***4:26
+	o No Roots (Alice Merton)***3:57
+	o Nothing Suits Me Like A Suit (Neil Patrick Harris & Cast of HIMYM)***2:52
+	o Smells Like Teen Spirit (Malia J)***3:59
+	o Very Full (Tom Hiddleston)***1:26
+	o What A Man Gotta Do (Jonas Brothers)***3:00
+
+SpiderVerse
+	o Becoming Spider-Man***4:17
+	o Far From Home Suite***8:27
+	o Promises***4:53
+	o What's Up Danger***3:42
+
