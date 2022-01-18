@@ -13,5 +13,5 @@ void preCredits() {
 }
 
 void endCredits() {
-   puts("G");
+   puts("Enjoy your music");
 }
